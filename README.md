@@ -1,6 +1,6 @@
 # JavaScript and DOM Manipulation
 
-![screen shot](Screen Shot 2021-07-25 at 7.47.14 PM.png)
+![screen shot](https://github.com/haiyun508/javascript-challenge/blob/main/Screen%20Shot%202021-07-25%20at%207.47.14%20PM.png)
 
 ## Background
 
