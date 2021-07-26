@@ -1,5 +1,7 @@
 # JavaScript and DOM Manipulation
-Screen Shot 2021-07-25 at 7.47.14 PM.png
+
+![dashboard](Screen Shot 2021-07-25 at 7.47.14 PM.png)
+
 
 ## Background
 
